@@ -6,6 +6,9 @@
   --background-color: #2F303A;
   --secondary-background-color: #F5F4FA;
 }
+body {
+  font-family: Roboto, sans-serif;
+}
 ul {
   list-style-type: none;
 }
